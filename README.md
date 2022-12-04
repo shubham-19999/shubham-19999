@@ -10,9 +10,8 @@
 
 - 💬 Ask me about **Backend Development, Data Structures and Algorithms.**
 
-- 📫 How to reach me **sanidhya.official289@gmail.com**
+- 📫 How to reach me **shubhamgupta9001@gmail.com**
 
-- ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,13 +26,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanidhyasrivastava123&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanidhyasrivastava123&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyasrivastava123&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubham-19999&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-19999&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
